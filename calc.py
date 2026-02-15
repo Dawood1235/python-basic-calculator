@@ -5,7 +5,7 @@ res2 = []
 while(test!=-1):
     num1 = int(input("Enter number 1: "))
     num2 = int(input("Enter number 2: "))
-    test = int(input("Enter -1 to stop enttering the number: "))
+    test = int(input("Enter -1 to stop entering the number or any other number to continue: "))
     res1.append(num1)
     res2.append(num2)
 
