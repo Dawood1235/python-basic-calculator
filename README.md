@@ -1,2 +1,4 @@
 # python-basic-calculator
-A basic calculator built using Python console input and output.
+This basic Python calculator is a menu-driven calculator that allows users to perform multiple arithmetic operations using console input. The program repeatedly accepts two numbers from the user and stores them in lists until the user chooses to stop. After data entry, users can select an operation such as addition, multiplication, subtraction, or division, and the program processes all stored number pairs in one go.
+
+The calculator includes exception handling to safely manage division errors and prevent program crashes. By using loops, lists, and conditional statements, this project demonstrates core Python programming concepts like input handling, iteration, and error management. It is ideal for Python beginners who want to practice building interactive console applications and understand how to perform batch calculations efficiently.
